@@ -1,0 +1,23 @@
+{
+	"root": true,
+	"extends": [
+		"@techmmunity/eslint-config/common",
+		"@techmmunity/eslint-config/jest",
+		"@techmmunity/eslint-config/ts-react"
+	],
+	"rules": {
+		"capitalized-comments": 0,
+		"@typescript-eslint/no-magic-numbers": 0,
+		// "import/extensions": [
+		// 	"warning",
+		// 	"ignorePackages",
+		// 	{
+		// 		"ts": "never",
+		// 		"tsx": "never",
+		// 		"js": "never",
+		// 		"jsx": "never"
+		// 	}
+		// ]
+		"import/extensions": 0
+	}
+}
