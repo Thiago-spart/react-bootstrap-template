@@ -8,16 +8,6 @@
 	"rules": {
 		"capitalized-comments": 0,
 		"@typescript-eslint/no-magic-numbers": 0,
-		// "import/extensions": [
-		// 	"warning",
-		// 	"ignorePackages",
-		// 	{
-		// 		"ts": "never",
-		// 		"tsx": "never",
-		// 		"js": "never",
-		// 		"jsx": "never"
-		// 	}
-		// ]
 		"import/extensions": 0
 	}
 }
